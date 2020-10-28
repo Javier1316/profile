@@ -15,7 +15,7 @@ h1 {
 
 h2 {
   font-size: 20px;
-  font-weight: lighter;
+  font-weight: bold;
 }
 
 a {
@@ -46,6 +46,7 @@ a:hover {
 
 .image-profile {
   border-radius: 100px;
+  box-shadow: 0px 10px 13px -7px #66738B;
 }
 
 .blue-button {
