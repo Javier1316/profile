@@ -54,6 +54,7 @@ a:hover {
   background-color: #006F8A;
   padding: 10px 20px;
   border-radius: 5px;
+  transition: 0.3s;
 }
 
 .blue-button:hover {
